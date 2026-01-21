@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
       inputs:
         package_name:
-          description: "com.garena.game.kgth"
+          description: "com.garena.game.kgth:"
           required: true
 
 jobs:
